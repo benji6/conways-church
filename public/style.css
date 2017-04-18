@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 1rem;
+  height: 1rem;
+  background: gray;
+}
+
+.cell--active {
+  background: red;
+}
